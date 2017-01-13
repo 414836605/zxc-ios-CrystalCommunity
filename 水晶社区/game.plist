@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>game1</string>
+		<key>name</key>
+		<string>纪念碑谷</string>
+		<key>describe</key>
+		<string>纪念碑谷</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game2</string>
+		<key>name</key>
+		<string>虚空之虫</string>
+		<key>describe</key>
+		<string>虚空之虫</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game3</string>
+		<key>name</key>
+		<string>波客艾克历险记</string>
+		<key>describe</key>
+		<string>波客艾克历险记</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game4</string>
+		<key>name</key>
+		<string>梦幻西游</string>
+		<key>describe</key>
+		<string>梦幻西游</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game5</string>
+		<key>name</key>
+		<string>少女前线</string>
+		<key>describe</key>
+		<string>少女前线</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game6</string>
+		<key>name</key>
+		<string>崩坏学院</string>
+		<key>describe</key>
+		<string>崩坏学院</string>
+	</dict>
+</array>
+</plist>
